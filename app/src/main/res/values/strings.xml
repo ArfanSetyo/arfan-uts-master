@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Daftar Pantai Kebumen</string>
+    <string name="aplikasi_daftar_pantai_kebumen">Aplikasi Daftar Pantai Kebumen</string>
+
+    <string-array name="data_name">
+        <item>Pantai Lampon</item>
+        <item>Pantai Pedalen</item>
+        <item>Pantai Suwuk</item>
+        <item>Pantai Watu Bale</item>
+        <item>Pantai Menganti</item>
+        <item>Pantai Laguna</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pantai Lampon berada tepat disebelah barat dari Pantai Pasir yang juga berada di Desa Pasir, Kecamatan Ayah, Kebumen.</item>
+        <item>Pantai Pedalen terletak di Desa Argopeni Kecamatan Ayah Kabupaten Kebumen yang berjarak sekitar 4,8 km dari jantung kota Kebumen.</item>
+        <item>Pantai Suwuk merupakan sebuah pantai yang terletak di Dusun Suwuk, Desa Tambakmulyo, Kecamatan Puring, Kabupaten Kebumen, Jawa Tengah.</item>
+        <item>Pantai Watu Bale merupakan sebuah pantai yang berlokasi di Desa Pasir, Kecamatan Ayah, Kabupaten Kebumen, Jawa Tengah.</item>
+        <item>Pantai Menganti merupakan sebuah pantai yang berlokasi di Desa Karangduwur, Kecamatan Ayah, Kabupaten Kebumen, Jawa Tengah.</item>
+        <item>Pantai Laguna Lembupurwo adalah objek wisata yang terletak di Kecamatan Mirit, Kabupaten Kebumen, Jawa Tengah.</item>
+    </string-array>
+
+    <string-array name="data_tiket">
+        <item>5000</item>
+        <item>10.000</item>
+        <item>5000</item>
+        <item>5000</item>
+        <item>10.000</item>
+        <item>5000</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pantai_lampon</item>
+        <item>@drawable/pantai_pedalen</item>
+        <item>@drawable/pantai_suwuk</item>
+        <item>@drawable/pantai_watu_bale</item>
+        <item>@drawable/pantai_meganti</item>
+        <item>@drawable/pantai_laguna</item>
+    </integer-array>
+    <string name="foto_pantai">foto_pantai</string>
+    <string name="nama_pantai">Nama Pantai</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Desc</string>
+    <string name="tab_text_2">Info</string>
+    <string name="deskripsi_detail">Deskripsi Detail</string>
+    <string name="rating">Rating</string>
+    <string name="rating_pantai">Rating Pantai</string>
+    <string name="bintang1">Bintang 1</string>
+    <string name="bintang2">Bintang 2</string>
+    <string name="bintang3">Bintang 3</string>
+    <string name="bintang_5">Bintang 5</string>
+    <string name="pilih">Pilih</string>
+    <string name="keluar">Keluar</string>
+    <string name="bintang_4">Bintang 4</string>
+    <string name="harga_tiket_masuk">Harga Tiket Masuk</string>
+    <string name="harga_tiket_masuk_pantai">Harga tiket masuk pantai</string>
+    <string name="tiket_parkir">Tiket Parkir</string>
+</resources>
